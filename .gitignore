@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data analysis outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.html
+*.xlsx
+*.json
+outputs/
+plots/
+figures/
+results/
+
+# Large data files (uncomment if you want to ignore large datasets)
+# *.csv
+# data/large/
+# data/raw/
